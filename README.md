@@ -1,7 +1,5 @@
 # OPP_week2
-##complete with helps from Github Copilot
-Project Title
-A brief description of what this project does. Replace this text with your own project's summary.
+Completed with helps from Github Copilot
 
 Prerequisites
 Before you can build and run this project, you need to have a C++ compiler installed on your system. The most common compiler is g++, which is part of the GNU Compiler Collection (GCC).
